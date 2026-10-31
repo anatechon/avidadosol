@@ -1,0 +1,6 @@
+{
+  "name": "A Vida do Sol",
+  "description": "Percorra dez bilhões de anos e veja o Sol nascer, inchar e desaparecer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
